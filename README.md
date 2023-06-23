@@ -1,6 +1,6 @@
 ## Hi there , I´m Adrian👋
 
-I'm software developer with experience in IT and 6 years in software development . :heart: Passionate about development with good practices, :cop: information security  , :open_file_folder: Open Source and :telescope: astronomy 
+I'm software developer with experience in IT and 6 years in software development . :heart: Passionate about development with good practices,  information security :cop: , Open Source :open_file_folder:  and astronomy :telescope: 
 <hr>
 
 ### Skills ,Tools and Tecnologies
